@@ -195,3 +195,24 @@ span {
   font: 40px;
   padding: 10px;
 }
+.middle-img {
+  margin: 20px auto;
+}
+
+.img-icon {
+  position: relative;
+  left: 80%;
+  margin-bottom: 100px;
+}
+.text-img {
+  font-size: 20px;
+  margin-bottom: 50px;
+  justify-content: center;
+  display: flex;
+}
+.Sales {
+  margin-top: 40px;
+  font-size: 40px;
+  justify-content: center;
+  display: flex;
+}
